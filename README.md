@@ -1,2 +1,3 @@
-This is a Drum Kit that utilises event listeners for both onClicks and keyboard presses.
 # DrumKit
+
+This is a DrumKit that listens to users clicks and keyboard presses to produce sounds associated with the drum kits.
